@@ -1,5 +1,5 @@
 # GRE-case-study
-Code base showing my implementation of the API Consumption case study solution
+Code base (Java) showing my implementation of the API Consumption case study solution
 
 This is a REST API application that is designed to retrieve data points from the Twin-Cities Metro Transit Web Services portal.
 
