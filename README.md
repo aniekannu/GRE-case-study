@@ -1,5 +1,6 @@
 # GRE-case-study
 Code base showing my implementation of the API Consumption case study solution
+
 This is a REST API application that is designed to retrieve data points from the Twin-Cities Metro Transit Web Services portal.
 
 It is made up of 4 model classes that map to json objects in the Metro Transit REST API service end point.
